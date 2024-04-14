@@ -28,7 +28,7 @@ const siteInfoLinks = [
 const contactLinks = [
   {
     icon: AiFillGithub,
-    href: 'https://github.com/'
+    href: 'https://github.com/ABC1319/next-home'
   },
   {
     icon: AiFillWechat,
