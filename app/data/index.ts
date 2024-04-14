@@ -4,43 +4,43 @@ import { SiBaidu, SiMicrosoftbing, SiGoogle, SiGithub, SiZhihu, SiBilibili, SiSi
 
 const siteInfoLinks = [
   {
-    href: 'https://blog.liwenkai.fun',
+    href: 'https://home0.1215420.xyz/',
     icon: FaBlog,
-    text: 'Blog'
+    text: 'Skyの主页	'
   },
-  // {
-  //   href: 'https://www.liwenkai.asia/',
-  //   icon: FaMusic,
-  //   text: 'Music'
-  // },
   {
-    href: 'https://nav.liwenkai.fun',
+    href: 'https://soo.1215420.xyz/',
+    icon: FaMusic,
+    text: 'X主页'
+  },
+  {
+    href: 'https://drugxo.1215420.xyz/',
     icon: FaBook,
-    text: 'Nav'
+    text: '药研网址导航'
   },
   {
-    href: 'https://me.liwenkai.fun',
+    href: 'https://home00.1215420.xyz/',
     icon: FaPaperPlane,
-    text: 'Me'
+    text: 'Dmego Home'
   }
 ]
 
 const contactLinks = [
   {
     icon: AiFillGithub,
-    href: 'https://github.com/liwenka1'
+    href: 'https://github.com/'
   },
   {
     icon: AiFillWechat,
-    href: 'https://weixin.sogou.com/weixin?type=1&query=kk%E6%83%B3%E5%BD%93%E7%A8%8B%E5%BA%8F%E5%91%98'
+    href: 'https://weixin.sogou.com/weixin?type=1&query='
   },
   {
     icon: AiFillMail,
-    href: 'mailto:2020583117@qq.com'
+    href: 'mailto:123456789@qq.com'
   },
   {
     icon: AiFillTwitterCircle,
-    href: 'https://twitter.com/liwenka1'
+    href: 'https://twitter.com/'
   }
 ]
 
