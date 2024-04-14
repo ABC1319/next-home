@@ -6,7 +6,7 @@ import { Inter } from 'next/font/google'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: '文凯的破绽',
+  title: 'Skyの引导页',
   description: '简简单单的首页',
   icons: {
     icon: '/favicon.ico'
