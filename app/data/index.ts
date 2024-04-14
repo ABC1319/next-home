@@ -11,7 +11,7 @@ const siteInfoLinks = [
   {
     href: 'https://soo.1215420.xyz/',
     icon: FaMusic,
-    text: 'X'
+    text: 'X主页'
   },
   {
     href: 'https://drugxo.1215420.xyz/',
@@ -28,7 +28,7 @@ const siteInfoLinks = [
 const contactLinks = [
   {
     icon: AiFillGithub,
-    href: 'https://github.com/ABC1319/next-home'
+    href: 'https://github.com/'
   },
   {
     icon: AiFillWechat,
