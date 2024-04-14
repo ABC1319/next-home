@@ -1,4 +1,4 @@
-import { FaBlog, FaBook, FaPaperPlane } from 'react-icons/fa'
+import { FaBlog, FaBook, FaMusic, FaPaperPlane } from 'react-icons/fa'
 import { AiFillGithub, AiFillWechat, AiFillMail, AiFillTwitterCircle } from 'react-icons/ai'
 import { SiBaidu, SiMicrosoftbing, SiGoogle, SiGithub, SiZhihu, SiBilibili, SiSinaweibo } from 'react-icons/si'
 
@@ -6,17 +6,17 @@ const siteInfoLinks = [
   {
     href: 'https://home0.1215420.xyz/',
     icon: FaBlog,
-    text: 'Skyの主页	'
+    text: 'Skyの主页'
   },
   {
     href: 'https://soo.1215420.xyz/',
     icon: FaMusic,
-    text: 'X主页'
+    text: 'X'
   },
   {
     href: 'https://drugxo.1215420.xyz/',
     icon: FaBook,
-    text: '药研网址导航'
+    text: '药研导航'
   },
   {
     href: 'https://home00.1215420.xyz/',
